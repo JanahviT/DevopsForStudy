@@ -5,3 +5,5 @@ git remote -v
 git clone
 git config 
 git commit
+git push
+git pull
