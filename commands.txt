@@ -7,3 +7,4 @@ git config
 git commit
 git push
 git pull
+git revoke
